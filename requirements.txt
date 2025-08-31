@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+networkx>=3.1
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebooks
+jupyterlab>=4.0
+ipykernel>=6.25
+
+# Utilities
+tqdm>=4.66
+
+# Dashboards / Demos
+streamlit>=1.32
+gradio>=4.0
+
